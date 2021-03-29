@@ -1,0 +1,11 @@
+.container{
+    width: 890px;
+    padding: 40px;
+    background-color: rgb(175, 158, 158);
+}
+
+h1{
+    padding: 20px;
+    min-height: 40px;
+    outline: solid black;
+}
